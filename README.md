@@ -51,68 +51,67 @@ Deciding What Layers To Share</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(24).pdf" style="text-decoration:none;">Regularizing Deep Multi-Task Networks using Orthogonal Gradients</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(25).pdf" style="text-decoration:none;">Gradient Surgery for Multi-Task Learning</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(26).pdf" style="text-decoration:none;">Visual Dialog</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(27).pdf" style="text-decoration:none;">Multi-Agent Cooperation and the Emergence of (Natural) Language</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(26).pdf" style="text-decoration:none;">MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(27).pdf" style="text-decoration:none;">Multi-Task Learning for Dense Prediction Tasks: A Survey</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(28).pdf" style="text-decoration:none;">Deep Voice: Real-time Neural Text-to-Speech</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(28).pdf" style="text-decoration:none;">Knowledge Distillation for Multi-task Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(29).pdf" style="text-decoration:none;">Zero-Shot Learning - The Good, the Bad and the Ugly </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(29).pdf" style="text-decoration:none;">Reparameterizing Convolutions for Incremental Multi-Task Learning without Task Interference </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(30).pdf" style="text-decoration:none;">Emergence of Grounded Compositional Language in Multi-Agent Populations</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(30).pdf" style="text-decoration:none;">Automated Search for Resource-Efficient Branched Multi-Task Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(31).pdf" style="text-decoration:none;">Learning Robust Visual-Semantic Embeddings</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(32).pdf" style="text-decoration:none;">Learning Cooperative Visual Dialog Agents with Deep Reinforcement Learning</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(31).pdf" style="text-decoration:none;">Multi-path Neural Networks for On-device Multi-domain Visual Classification</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(32).pdf" style="text-decoration:none;">Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(33).pdf" style="text-decoration:none;">Towards Building Large Scale Multimodal Domain-Aware Conversation Systems</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(33).pdf" style="text-decoration:none;">Latent Multi-Task Architecture Learning</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(34).pdf" style="text-decoration:none;">Generating Descriptions with Grounded and Co-Referenced People</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(34).pdf" style="text-decoration:none;">A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(35).pdf" style="text-decoration:none;">Deep Multimodal Representation Learning from Temporal Data</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(35).pdf" style="text-decoration:none;">Multitask Learning Strengthens
+Adversarial Robustness</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(36).pdf" style="text-decoration:none;">Learning to Reason: End-to-End Module Networks for Visual Question Answering</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(36).pdf" style="text-decoration:none;">TASK2VEC: Task Embedding for Meta-Learning</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(37).pdf" style="text-decoration:none;">End-to-End Multimodal Emotion Recognition using Deep Neural Networks</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(38).pdf" style="text-decoration:none;">Deep Voice 2: Multi-Speaker Neural Text-to-Speech</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(39).pdf" style="text-decoration:none;">Gated-Attention Architectures for Task-Oriented Language Grounding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(40).pdf" style="text-decoration:none;">Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(41).pdf" style="text-decoration:none;">SCAN: Learning Hierarchical Compositional Visual Concepts</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(42).pdf" style="text-decoration:none;">Tensor Fusion Network for Multimodal Sentiment Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(37).pdf" style="text-decoration:none;">Transfer Learning with Deep Recurrent Neural Networks for Remaining Useful Life Estimation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(38).pdf" style="text-decoration:none;">Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(39).pdf" style="text-decoration:none;">Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(40).pdf" style="text-decoration:none;">RMTL: an R library for multi-task learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(41).pdf" style="text-decoration:none;">Multitask Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(42).pdf" style="text-decoration:none;">GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(43).pdf" style="text-decoration:none;">Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(44).pdf" style="text-decoration:none;">Localizing Moments in Video with Natural Language</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(45).pdf" style="text-decoration:none;">Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(43).pdf" style="text-decoration:none;">Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(44).pdf" style="text-decoration:none;">Representation Similarity Analysis for Efficient Task taxonomy and Transfer Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(45).pdf" style="text-decoration:none;">Facial Landmark Detection by
+Deep Multi-task Learning</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(46).pdf" style="text-decoration:none;">Cross-modal Recurrent Models for Weight Objective Prediction from Multimodal Time-series Data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(46).pdf" style="text-decoration:none;">NDDR-CNN: Layerwise Feature Fusing in Multi-Task CNNs by Neural Discriminative Dimensionality Reduction</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(47).pdf" style="text-decoration:none;">Fooling Vision and Language Models
-Despite Localization and Attention Mechanism</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(48).pdf" style="text-decoration:none;">Emergent Translation in Multi-Agent Communication</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(47).pdf" style="text-decoration:none;">Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(48).pdf" style="text-decoration:none;">UberNet: Training a Universal Convolutional Neural Network for Low-, Mid-, and High-Level Vision using Diverse Datasets and Limited Memory</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(49).pdf" style="text-decoration:none;">Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(49).pdf" style="text-decoration:none;">Fully-adaptive Feature Sharing in Multi-Task Networks with Applications in Person Attribute Classification</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(50).pdf" style="text-decoration:none;">Multimodal Probabilistic Model-Based Planning for Human-Robot Interaction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(51).pdf" style="text-decoration:none;">Learning Multi-ModalWord Representation Grounded in Visual Context</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(52).pdf" style="text-decoration:none;">Look, Imagine and Match:
-Improving Textual-Visual Cross-Modal Retrieval with Generative Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(50).pdf" style="text-decoration:none;">Dynamic Task Prioritization for Multitask Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(51).pdf" style="text-decoration:none;">Cross-stitch Networks for Multi-task Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(52).pdf" style="text-decoration:none;">Multi-Task Learning as Multi-Objective Optimization</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(53).pdf" style="text-decoration:none;">Neural Motifs: Scene Graph Parsing with Global Context</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(53).pdf" style="text-decoration:none;">Pareto Multi-Task Learning</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(54).pdf" style="text-decoration:none;">Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(54).pdf" style="text-decoration:none;">Learning Multiple Tasks with Multilinear Relationship Networks </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(55).pdf" style="text-decoration:none;">Video Captioning via Hierarchical Reinforcement Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(55).pdf" style="text-decoration:none;">Adversarial Multi-task Learning for Text Classification</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(56).pdf" style="text-decoration:none;">Embodied Question Answering </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(56).pdf" style="text-decoration:none;">A Modulation Module for Multi-task Learning with Applications in Image Retrieval </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(57).pdf" style="text-decoration:none;">Don't Just Assume; Look and Answer:
-Overcoming Priors for Visual Question Answering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(57).pdf" style="text-decoration:none;">PAD-Net: Multi-Tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(58).pdf" style="text-decoration:none;">Grounding Referring Expressions in Images by Variational Context</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(59).pdf" style="text-decoration:none;">Attacking Visual Language Grounding with Adversarial Examples: A Case Study on Neural Image Captioning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(58).pdf" style="text-decoration:none;">Robust Learning Through Cross-Task Consistency</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(59).pdf" style="text-decoration:none;">Pattern-Affinitive Propagation across Depth, Surface Normal and Semantic Segmentation</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(60).pdf" style="text-decoration:none;">Semi-supervised Multimodal Hashing </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(60).pdf" style="text-decoration:none;">Joint Task-Recursive Learning for Semantic Segmentation and Depth Estimation </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(61).pdf" style="text-decoration:none;"> Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(61).pdf" style="text-decoration:none;"> Pattern-Structure Diffusion for Multi-Task Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(62).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multi-Task-ML-Paper-List/blob/master/mult(62).pdf" style="text-decoration:none;">Transfer Learning With Neural Networks for Bearing Fault Diagnosis in Changing Working Conditions</a></li>
  </ul>
